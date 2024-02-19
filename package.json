@@ -1,0 +1,17 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "smartpebble_logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.12",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4"
+  }
+}
